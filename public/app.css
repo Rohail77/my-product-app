@@ -1,0 +1,15 @@
+ body {
+     padding: 50px;
+ }
+
+ .hidden {
+     display: none;
+ }
+
+ .thumb-img {
+     width: 50px;
+ }
+
+ .product-img {
+     width: 100px;
+ }

@@ -1,0 +1,16 @@
+{
+    "name": "tahar/03_good",
+    "authors": [
+        {
+            "name": "Rohail77",
+            "email": "taharohail77@gmail.com"
+        }
+    ],
+    "description": "",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
